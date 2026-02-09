@@ -1,11 +1,11 @@
-curl https://api.github.com/repos/bhawani-lnmiit/Introduction-to-Git-and-GitHub
+curl https://api.github.com/repos/bhawani-lnmiit/mcino-Introduction-to-Git-and-GitHub
 
 {
   "id": 123456789,
-  "name": "Introduction-to-Git-and-GitHub",
-  "full_name": "bhawani-lnmiit/Introduction-to-Git-and-GitHub",
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "bhawani-lnmiit/mcino-Introduction-to-Git-and-GitHub",
   "fork": true,
   "parent": {
-    "full_name": "ibm-developer-skills-network/Introduction-to-Git-and-GitHub"
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
   }
 }
