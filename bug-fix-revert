@@ -1,18 +1,18 @@
-curl https://api.github.com/repos/ibm-developer-skills-network/Introduction-to-Git-and-GitHub/pulls/1
+curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1
 
 {
-  "id": 987654321,
+  "id": 1122334455,
   "number": 1,
   "state": "open",
   "title": "Bug fix typo",
   "head": {
     "repo": {
-      "full_name": "bhawani-lnmiit/Introduction-to-Git-and-GitHub"
+      "full_name": "bhawani-lnmiit/mcino-Introduction-to-Git-and-GitHub"
     }
   },
   "base": {
     "repo": {
-      "full_name": "ibm-developer-skills-network/Introduction-to-Git-and-GitHub"
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
     }
   }
 }
